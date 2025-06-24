@@ -10,6 +10,10 @@
   position: relative;
 }
 
+.hero-mid h1 {
+  padding-top: 4rem !important;
+}
+
 img {
   width: 100%;
   height: 100%;
@@ -53,7 +57,7 @@ img {
   display: none;
 }
 
-@media screen and (max-width; 555px) {
+@media screen and (max-width: 555px) {
   .hero-text h1 {
     padding: 10px 20px;
   }

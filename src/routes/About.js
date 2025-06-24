@@ -5,12 +5,7 @@ function About() {
   return (
     <>
       <Navbar />
-      <Hero
-        cName="hero-mid"
-        heroImg={AboutImg}
-        title="Your Journey Your Story"
-        btnClass="hide"
-      />
+      <Hero cName="hero-mid" heroImg={AboutImg} title="About" btnClass="hide" />
     </>
   );
 }

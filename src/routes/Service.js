@@ -1,9 +1,15 @@
 import Navbar from "../components/Navbar";
+import AboutImg from "../assets/night.jpg";
 function Service() {
   return (
     <>
       <Navbar />
-      <h1>This is Service page.</h1>
+      <Hero
+        cName="hero-mid"
+        heroImg={AboutImg}
+        title="Service"
+        btnClass="hide"
+      />
     </>
   );
 }
