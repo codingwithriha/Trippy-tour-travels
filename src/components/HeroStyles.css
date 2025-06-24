@@ -32,8 +32,8 @@ img {
   font-size: 3rem;
   font-weight: 800;
   color: #fff;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  /* -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; */
 }
 
 .hero-text p {

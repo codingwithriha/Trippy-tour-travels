@@ -1,4 +1,5 @@
 import Navbar from "../components/Navbar";
+import Hero from "../components/Hero";
 import ContactImg from "../assets/2.jpg";
 function Contact() {
   return (

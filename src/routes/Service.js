@@ -1,4 +1,5 @@
 import Navbar from "../components/Navbar";
+import Hero from "../components/Hero";
 import AboutImg from "../assets/night.jpg";
 function Service() {
   return (
